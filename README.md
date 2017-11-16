@@ -1,5 +1,4 @@
-# CapstranoLesson
-
+# Capstrano
 テンプレート作成(productionとstaging環境用が作成される)
 ```
 cap install
